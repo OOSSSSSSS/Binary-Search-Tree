@@ -1,2 +1,2 @@
-# Binery-Search-Tree
-C++ Binery-Search-Tree
+# Binary-Search-Tree
+C++ Binary-Search-Tree
